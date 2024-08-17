@@ -17,4 +17,6 @@ This repo is intended for ysq to test out various novel<sup>*</sup> gadgets just
 
 ## sth
 write sth
+test vi
+test if wakatime will jilu vi
 
