@@ -2,6 +2,11 @@
 [![Build Status](https://app.travis-ci.com/Yang-Shiqin/testall.svg?branch=main)](https://app.travis-ci.com/Yang-Shiqin/testall)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 Hi there 👋
