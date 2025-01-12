@@ -4,8 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 hrs 1 min     ████████████████████▓░░░░   83.29 %
-YAML     1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Python   6 hrs 52 mins   ███████████████████▓░░░░░   79.13 %
+YAML     1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
 ```
 
 <!--END_SECTION:waka-->
